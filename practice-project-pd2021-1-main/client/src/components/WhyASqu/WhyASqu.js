@@ -14,4 +14,3 @@ function WhyASqu(props) {
   );
 }
 export default WhyASqu;
-src={`${CONSTANTS.STATIC_IMAGES_PATH}more-benifits-high-quality-icon.png`}
